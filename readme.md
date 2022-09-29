@@ -1,6 +1,6 @@
 ![chatPlus](https://images2.imgbox.com/a0/a9/xEdIqtC6_o.png)
 # chatPlus
-chatPlus intelligently replaces the default chat system with a new, sophisticated, configurable one.  
+chatPlus intelligently replaces the default GTA:O chat system with a new, sophisticated, configurable one, while sticking to its roots. It makes using the chat a lot more fun, a lot more useful, and a lot less of a headache.  
 Some features of chatPlus include:  
 - Muting player chats  
 - Coloring player names conditionally, i.e modder names are colored red  
