@@ -17,7 +17,5 @@ Bug reports and suggestions should go into the Discord (there is a button in the
 
 ## Cons  
 chatPlus is, unfortunately, not magic.  
-The following cons exist for chatPlus and really can't be avoided:  
-- There is no history scrolling. What you see is what you get.  
+The following cons have been noticed for chatPlus and really can't be avoided:  
 - Because of how the script has to work, every message sent, including muted messages, will play a short animation as if every message in the chatbox was resent. (although a pretty minor issue)  
-- Some other strange behavior might be encountered. 
