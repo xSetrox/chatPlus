@@ -1,5 +1,5 @@
 ![chatPlus](https://images2.imgbox.com/a0/a9/xEdIqtC6_o.png)
-# Lancescript Reloaded
+# chatPlus
 chatPlus intelligently replaces the default chat system with a new, sophisticated, configurable one.  
 Some features of chatPlus include:  
 - Muting player chats  
